@@ -1,0 +1,18 @@
+# data folder
+/data
+
+# MacOS
+********.DS_Store
+.AppleDouble
+.LSOverride
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Node Dependency directories
+node_modules/
